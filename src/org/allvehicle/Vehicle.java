@@ -7,6 +7,7 @@ import org.twowheeler.TwoWheller;
 public class Vehicle {
 	private void vehicleNecessery() {
 		System.out.println("Vehicles Necessary : Yes or No");
+		System.out.println("Yes");
 	}
 	public static void main(String[] args) {
 		Vehicle a = new Vehicle();
